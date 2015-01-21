@@ -45,9 +45,8 @@ Thumbs.db
 
 # Dinamic generated files #
 ###########################
-site/wp-config.php
-site/wp-config-sample.php
+wp-config.php
+wp-config-sample.php
 site/wp-content/uploads
-site/wp-content/wptouch-data/cache
-site/wp-content/cache
-site/wp-content/advanced-cache.php
+cache
+envato-backups
